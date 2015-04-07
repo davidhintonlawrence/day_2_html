@@ -1,0 +1,13 @@
+ h1 {
+      color: darkblue;
+      border-bottom: 2px black solid;
+    }
+    h2 {
+      color: blue;
+    }
+    .highlight {
+      background-color: lightyellow;
+    }
+    .important {
+      text-decoration: underline;
+    }
